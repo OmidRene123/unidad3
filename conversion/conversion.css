@@ -1,0 +1,16 @@
+body{
+	background-color: #73F43F;
+	font-size: 20px;
+
+}
+#Barra a{
+	font-size: 25px;
+	color: #17202A;
+}
+button{
+	width: 160px;
+    height: 30px;
+	margin: 10px;
+	background-color: #E4F43F;
+	font-size: 15px;
+}
